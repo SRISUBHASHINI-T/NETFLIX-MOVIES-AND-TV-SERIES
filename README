@@ -1,0 +1,29 @@
+# 🎬 Netflix Movies & TV Series Analysis
+
+## 📌 Overview
+This project analyzes Netflix movies and TV series to provide insights into content distribution, IMDb ratings, genres, certification, and audience preferences. The goal was to help users and stakeholders easily search, filter, and understand Netflix content based on type, rating, genre, and suitability for different audiences.  
+
+## 🎯 Key Objectives
+- Categorize Netflix content by **type (movie or TV series)** and genre.  
+- Evaluate IMDb ratings to highlight popular and highly-rated content.  
+- Analyze certification and family-friendly content for audience suitability.  
+- Provide insights for content recommendation and selection.  
+- Enable quick filtering and comparison of movies and TV series based on user preferences.  
+
+## 🛠️ Tools & Technologies
+- **Microsoft Excel** → Data cleaning, transformation, and analysis  
+- **Excel Functions & Formulas** → Sorting, filtering, pivot tables, and calculations  
+- **Charts & Visualizations** → Bar charts, pie charts, and conditional formatting for interactive insights  
+
+## 📊 Process
+1. **Data Cleaning**: Standardized content titles, handled missing ratings, and removed duplicates.  
+2. **Segmentation**: Grouped content by type, genre, and certification.  
+3. **Analysis**: Calculated IMDb ratings, genre frequency, and family-friendly content counts.  
+4. **Visualization**: Created charts and interactive tables in Excel to summarize content distribution and ratings.  
+5. **Insights**: Highlighted top-rated movies, popular genres, and suitable content for different audiences.  
+
+## 📈 Outcome
+- Enabled easy filtering and exploration of Netflix content.  
+- Identified trends in genre popularity and content ratings.  
+- Highlighted family-friendly and highly-rated content for different audience groups.  
+- Provided a structured overview to support user decision-making and recommendations.  
